@@ -1,4 +1,6 @@
 langgraph==1.2.0
+langchain-openai==1.2.1
+langchain-groq
 langchain-google-genai==4.2.4
 python-dotenv==1.2.2
 pydantic==2.10.4
